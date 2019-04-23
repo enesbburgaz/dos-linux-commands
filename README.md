@@ -21,3 +21,19 @@
 |Changes directories with a relative path|	cd..|	cd ..|
 |Displays the time|	time|	date|
 |Shows amount of RAM in use|	mem	|free	|
+|Displays the contents of a file|type|cat|
+|Sets file permissions|attrib| chmod|
+|Backs up and recovers files|xcopy|cpio|
+|	List command history| doskey /h | history
+|Exit a shell| exit|exit|
+|List all environment variables|set|set and env|
+|	Echo text to screen|echo test|echo test|
+|Display search path for executables|PATH| echo $PATH |
+|Sort data alphabetically/numerically|SORT| sort|
+|Print a file|print|lpr|
+|Print host name of computer| hostname||hostname|
+|Display/configure network interface| ipconfig | ifconfig|
+|Reboot system.| reboot | shutdown -r now|
+
+
+
