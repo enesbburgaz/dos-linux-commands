@@ -31,7 +31,7 @@
 |Display search path for executables|PATH| echo $PATH |
 |Sort data alphabetically/numerically|SORT| sort|
 |Print a file|print|lpr|
-|Print host name of computer| hostname||hostname|
+|Print host name of computer| hostname |hostname|
 |Display/configure network interface| ipconfig | ifconfig|
 |Reboot system.| reboot | shutdown -r now|
 
